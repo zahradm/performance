@@ -1,0 +1,24 @@
+{
+  "name": "interview-prep-performance-engineering",
+  "version": "1.0.0",
+  "description": "Comprehensive interview preparation guide for senior performance engineers",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve docs",
+    "dev": "docsify serve docs"
+  },
+  "keywords": [
+    "performance",
+    "interview",
+    "engineering",
+    "java",
+    "testing",
+    "optimization"
+  ],
+  "author": "Performance Engineering Interview Prep",
+  "license": "MIT",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4",
+    "marked": "^18.0.2"
+  }
+}
